@@ -1,0 +1,5 @@
+fastapi
+streamlit
+websockets
+sse-starlette
+httpx
