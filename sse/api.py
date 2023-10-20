@@ -11,6 +11,8 @@ app = FastAPI()
 
 
 """
+### Server Sent Events ###
+
 Upsides:
     - enables sending events to the client whenever we want
     - the api stays the same as it is, just has an additional endpoint

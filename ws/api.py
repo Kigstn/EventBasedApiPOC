@@ -7,6 +7,8 @@ app = FastAPI()
 
 
 """
+### Websockets ###
+
 Upsides:
     - enables sending events to the client whenever we want
     - True bidirectional communication with little overhead for each request

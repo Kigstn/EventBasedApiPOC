@@ -9,6 +9,8 @@ app = FastAPI()
 
 
 """
+### Webhooks ###
+
 Upsides:
     - enables sending events to the client whenever we want
     - no need to keep connection open, easily scalable and we don't have to deal with disconnects
